@@ -22,5 +22,5 @@ Bem-vindo ao projeto de Amase! Este jogo é inspirado em clássicos do gênero e
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/felCardoso/amase.git
+   cd amase
