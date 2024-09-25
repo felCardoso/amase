@@ -5,16 +5,24 @@ body {
   margin: 0;
   padding: 0;
 }
+
 html {
   background-color: #fff7e8;
 }
+
 footer {
   background-color: #fff7e8;
   color: #000;
 }
+
 .div {
   background-color: #fff7e8;
 }
+
+li {
+  text-align: justify;
+}
+
 .item {
   font-family: "Quicksand", sans-serif;
   font-size: 30px;
@@ -22,6 +30,7 @@ footer {
   font-weight: 700;
   font-style: normal;
 }
+
 .logo {
   width: 250px;
   height: auto;
